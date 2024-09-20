@@ -5,7 +5,7 @@
   - ~ - 
   - ! - Exclamation mark
   - @ - At symbol
-  - #/ - Number sign
+  - # - Number sign
   - $ - Dollar sign
   - %
   - ^
