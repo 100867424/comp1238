@@ -2,11 +2,11 @@
 <hr>
 
 - Key Board Characters
-  - ~
-  - !
-  - @
-  - #
-  - $
+  - ~ - 
+  - ! - Exclamation mark
+  - @ - At symbol
+  - # - Number sign
+  - $ - Dollar sign
   - %
   - ^
   - &
