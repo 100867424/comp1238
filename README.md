@@ -17,5 +17,6 @@
   - _ - Underscore
  
 # Links
-- [GitHub Pages] - (https://github.com)
+- [GitHub Pages] - (https://github.com/)
+- [Rata Type] - (https://www.ratatype.com/)
   
