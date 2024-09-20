@@ -2,16 +2,17 @@
 <hr>
 
 - Key Board Characters
-  - ~ - 
-  - ! - Exclamation mark
-  - @ - At symbol
-  - \# - Number sign
-  - $ - Dollar sign
-  - %
-  - ^
-  - &
-  - *
-  - (
-  - )
-  - _
-  - +
+  - ~ - Tilde
+  - ! - Exclamation
+  - @ - At
+  - \# - Number
+  - $ - Dollar
+  - % - Percentage
+  - ^ - Hat
+  - & - Amperstand
+  - * - Asterisks
+  - ( - Left Bracket
+  - ) = Right Bracket
+  - _ - Underscore
+ 
+-
