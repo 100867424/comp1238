@@ -11,7 +11,7 @@
   - % - Percentage
   - ^ - Hat
   - & - Amperstand
-  - * - Asterisks
+  - \* - Asterisks
   - ( - Left Bracket
   - ) - Right Bracket
   - _ - Underscore
