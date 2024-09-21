@@ -13,7 +13,7 @@
   - & - Amperstand
   - * - Asterisks
   - ( - Left Bracket
-  - ) = Right Bracket
+  - ) - Right Bracket
   - _ - Underscore
  
 # Links
