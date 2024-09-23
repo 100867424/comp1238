@@ -29,3 +29,4 @@
 - 🥇 First Place
 - 🥈 Second Place
 - 🥉 Third Place
+- :accessibility:
