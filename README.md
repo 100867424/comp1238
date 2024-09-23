@@ -26,7 +26,6 @@
 - ❓
 - ❎
 - :accessibility:
-
 - 🥇 First Place
 - 🥈 Second Place
 - 🥉 Third Place
