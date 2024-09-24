@@ -31,9 +31,11 @@
 - 🥇 First Place
 - 🥈 Second Place
 - 🥉 Third Place
+<hr>
+<hr>
+<br>
 
-
-# Comp1238 Week 4 Lab - GitHub Pages and github.dev editor
+# COMP1238 Week 4 Lab - GitHub Pages and github.dev editor
 
 ## Keyboard shortcuts 2.2
 Shortcuts I currently use:
