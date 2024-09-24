@@ -24,13 +24,12 @@
 - [Bring a trailer](https://bringatrailer.com/)
   
 ## Experiments
-- :punch:
-- ❓
-- ❎
-- :accessibility:
+- ❓Question Mark
+- ❎ Green X
 - 🥇 First Place
 - 🥈 Second Place
 - 🥉 Third Place
+
 <hr>
 <hr>
 <br>
