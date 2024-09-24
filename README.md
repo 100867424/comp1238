@@ -46,6 +46,7 @@ Shortcuts I currently use:
 - Ctrl-S (Save)
 - WinKey-L (Lock computer)
 
+Shortcuts I would like to start using: 
 - Ctrl-/ (Comment or Uncomment selected line of code)
 - Ctrl-A (Select all)
 - Ctrl-Y (Redo)
