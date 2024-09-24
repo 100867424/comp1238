@@ -20,6 +20,7 @@
 - [GitHub Pages](https://github.com/)
 - [Rata Type](https://www.ratatype.com/)
 - [Atklass](https://app.atklass.com/)
+- [Bring a trailer](https://bringatrailer.com/)
   
 # Experiments
 - :punch:
@@ -29,5 +30,3 @@
 - 🥇 First Place
 - 🥈 Second Place
 - 🥉 Third Place
-- :accessibility:
-- [Bring a trailer](https://bringatrailer.com/)
