@@ -54,5 +54,10 @@ Shortcuts I would like to start using:
 - Ctrl-D (Duplicate line)
 
 <hr>
-# COMP1238 Lab 5
-# Link to the cli.md file created 
+<hr>
+<br>
+
+# COMP1238 Lab 6 - Link to the cli.md file created 
+
+## Link to cli.md file in docs folder
+[CLI Commands](docs/cli.md)
