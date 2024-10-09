@@ -56,4 +56,3 @@ Shortcuts I would like to start using:
 <hr>
 # COMP1238 Lab 5
 # Link to the cli.md file created 
-[CLI Commands](docs/cli.md)
