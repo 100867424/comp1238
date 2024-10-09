@@ -52,3 +52,8 @@ Shortcuts I would like to start using:
 - Ctrl-N (New window)
 - Crtl-T (Open new tab)
 - Ctrl-D (Duplicate line)
+
+<hr>
+# COMP1238 Lab 5
+# Link to the cli.md file created 
+[CLI Commands](docs/cli.md)
