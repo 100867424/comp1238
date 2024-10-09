@@ -55,4 +55,4 @@ Shortcuts I would like to start using:
 
 # Link to Lab 5 cli file
 
-[CLI commands](cli.md)
+[CLI commands](docs/cli.md)
