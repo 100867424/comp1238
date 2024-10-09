@@ -52,3 +52,7 @@ Shortcuts I would like to start using:
 - Ctrl-N (New window)
 - Crtl-T (Open new tab)
 - Ctrl-D (Duplicate line)
+
+# Link to Lab 5 cli file
+
+[CLI commands](cli.md)
